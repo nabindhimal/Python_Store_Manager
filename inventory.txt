@@ -1,0 +1,7 @@
+razerblade, razer, 200000, 20,         i7 7th Gen,         GTX 3060
+xps, dell, 1200.0, 18, kjhgf, kjhgfd
+alienware, alienware, 199999, 24,         i5 9th Gen,         GTX 3070
+tuf, asus, 100000, 5,         i5 7th Gen,         RTX 2000
+macbook pro, apple, 300000, 10,         i5 9th Gen,         GTX 3070
+ideapad, lenovo, 100000, 12,         i5 9th Gen,         GTX 3070
+zenbook, asus, 99000.0, 14,  rtx-300,  gt-500
